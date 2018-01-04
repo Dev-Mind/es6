@@ -2,7 +2,7 @@
 
 Ceci est un exemple de projet pour tester les différentes fonctionnalités
 
-![Dev-Mind](https://www.dev-mind.fr/images/logo/logo_1500.png)
+![Dev-Mind](https://www.dev-mind.fr/img/logo/logo_1500.png)
 
 Les exemples de code se trouvent [ici](src/app/js), et les tests en Jasmine [ici](test/unit)
 
